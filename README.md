@@ -10,7 +10,7 @@
 #### 安装
 键入一下代码
 
-*Linux系统*
+*💻Linux系统💻*
 
 ```bash
 git clone https://github.com/ZRY-233/html_porter.git
