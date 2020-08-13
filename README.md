@@ -8,12 +8,11 @@
 
 #### 安装
 键入一下代码
-# Install SET
 
 *Linux系统*
 
 ```bash
-git clone 
-cd 
-python 
+git clone https://github.com/ZRY-233/html_porter.git
+cd html_porter
+python html_porter.py
 ```
