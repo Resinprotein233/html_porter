@@ -8,3 +8,12 @@
 
 #### 安装
 键入一下代码
+# Install SET
+
+*Linux系统*
+
+```bash
+git clone 
+cd 
+python 
+```
