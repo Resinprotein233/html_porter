@@ -18,7 +18,7 @@ save = input("保存路径")
 htmlhandler = urllib.request.urlopen(url)
 
 #在本机上创造一个新文件
-file = open(//root//test.html, "wb")
+file = open(“//root//test.html, "wb")
 
 #将网页储存在本机文件里，每次读取512个字节,并告示使用者
 print("正在保存中，请稍候....")
