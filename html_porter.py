@@ -7,20 +7,18 @@ kaitou='''
 注意：
 保存路径请使用绝对路径
 格式如下：
-windows:
-D：\\xx\\xx\\xx.html
 
 Linux:
 //xx//xx//xx.html
 '''
 print(kaitou)
 url = input("Website_URL->")
-keep = input("保存路径->")
+save = input("保存路径")
 #打开一个网页链接
 htmlhandler = urllib.request.urlopen(url)
 
 #在本机上创造一个新文件
-file = open(keep, "wb")
+file = open(//root//test.html, "wb")
 
 #将网页储存在本机文件里，每次读取512个字节,并告示使用者
 print("正在保存中，请稍候....")
