@@ -2,7 +2,7 @@
 import urllib.request
 kaitou='''
              HTML_PORTER
-                  V1.0
+                  V2.0
  
 注意：
 保存路径请使用绝对路径
