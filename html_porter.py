@@ -7,6 +7,7 @@ kaitou='''
 注意：
 保存路径请使用绝对路径
 格式如下：
+注：打开有些链接会有延迟
 
 Linux:
 //xx//xx//xx.html
@@ -16,6 +17,7 @@ url = input("Website_URL->")
 save = input("保存路径->")
 #打开一个网页链接
 htmlhandler = urllib.request.urlopen(url)
+print("正在打开链接，请稍后....")
 
 #在本机上创造一个新文件
 file = open((save), "wb")
