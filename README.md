@@ -18,7 +18,7 @@ D:\\xxx\\xxx\\xxx.html
 *💻Linux系统💻*和*💻Windows系统💻*
 
 ```bash
-git clone https://github.com/ZRY-233/html_porter.git
+git clone https://github.com/Resinprotein233/html_porter.git
 cd html_porter
 python html_porter.py
 ```
